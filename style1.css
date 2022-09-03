@@ -1,0 +1,18 @@
+body{
+    margin: 150px;
+    background-color: rgb(255, 240, 201);
+}
+
+.separador{
+    background-color: black;
+}
+
+.tittle{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+}
+
+.pcatalogo{
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
